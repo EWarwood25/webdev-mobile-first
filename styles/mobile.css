@@ -87,12 +87,3 @@ nav{
   overflow: hidden;
   transition: height 0.5s;
 }
-.videoContainer{
-  display: flex;
-  justify-content: center;
-}
-video{
-  width:50%;
-  height: auto;
-  max-width:560px;
-}
